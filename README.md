@@ -5,8 +5,9 @@
 </div>
 
 ## :chart_with_upwards_trend: Current Stats
-<h1 align="center">Hey<img src = "/assets/hi.gif" width="50px" height="50px">, I'm Forhad Hossain</h1>  
-<h3 align="center">A passionate Web developer & Programming Enthusiast</h3> 
+<h1 align="center">Hey<img src = "/assets/hi.gif" width="50px" height="50px">, I'm Habibur Rhaman </h1>  
+<h3 align="center">𝐏𝐫𝐨𝐟𝐞𝐬𝐬𝐢𝐨𝐧𝐚𝐥 𝐃𝐢𝐠𝐢𝐭𝐚𝐥 𝐌𝐚𝐫𝐤𝐞𝐭𝐞𝐫 | 𝐒𝐄𝐎 𝐄𝐱𝐩𝐞𝐫𝐭
+ </h3> 
 <br>
 
 <br />
@@ -56,12 +57,11 @@
 </p>
 
 ## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mdforhadhossainbabu)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/m_forhadhossain)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/yesforhad)
-[![Threads](https://img.shields.io/badge/Threads-000000?style=flat&logo=threads&logoColor=white)](https://threads.net/yesforhad)
-[![Reddit](https://img.shields.io/badge/Reddit-orange?style=flat&logo=reddit&logoColor=white)](https://reddit.com/user/yesforhad)
-[![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)](https://www.npmjs.com/~yesforhad)
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/dmhabiburbd)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/dmhabiburbd1)
+[![Threads](https://img.shields.io/badge/Threads-000000?style=flat&logo=threads&logoColor=white)](https://threads.net/dmhabiburbd1)
+[![Reddit](https://img.shields.io/badge/Reddit-orange?style=flat&logo=reddit&logoColor=white)](https://reddit.com/user/dmhabiburbd)
+[![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)](https://www.npmjs.com/dmhabiburbd)
 
 
  ## 👀 About Me
